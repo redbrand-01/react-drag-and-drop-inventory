@@ -14,4 +14,4 @@
 
 /server/table/tableItem -- находятся итемы
 
-![Image alt](https://github.com/redbrand-01/react-drag-and-drop-inventory/raw/main/build/1.png)
+![Image alt](https://github.com/redbrand-01/react-drag-and-drop-inventory/tree/main/public/1.png)
